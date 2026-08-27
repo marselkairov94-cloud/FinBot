@@ -1,0 +1,42 @@
+{
+  "1704994258": {
+    "user_id": 1704994258,
+    "participant_id": "Участник_01",
+    "mode": "GOAL",
+    "goal_name": "Наушники",
+    "goal_cost": 18500.0,
+    "goal_duration_weeks": 8,
+    "weekly_income": 5000.0,
+    "weekly_goal_deposit": 2312.5,
+    "weekly_living_budget": 2687.5,
+    "base_daily_limit": 383.92857142857144,
+    "current_daily_limit": 114.58333333333333,
+    "week_start_date": "2026-08-19",
+    "current_day_index": 1,
+    "today_date": "2026-08-19",
+    "today_spent": 2000.0,
+    "week_spent": 2000.0,
+    "week_spontaneous_spent": 1700.0,
+    "total_goal_shift_days": 5
+  },
+  "7841770312": {
+    "user_id": 7841770312,
+    "participant_id": "гений_5",
+    "mode": "GOAL",
+    "goal_name": null,
+    "goal_cost": 0.0,
+    "goal_duration_weeks": 0,
+    "weekly_income": 0.0,
+    "weekly_goal_deposit": 0.0,
+    "weekly_living_budget": 0.0,
+    "base_daily_limit": 0.0,
+    "current_daily_limit": 0.0,
+    "week_start_date": "2026-08-19",
+    "current_day_index": 1,
+    "today_date": "2026-08-19",
+    "today_spent": 0.0,
+    "week_spent": 0.0,
+    "week_spontaneous_spent": 0.0,
+    "total_goal_shift_days": 0
+  }
+}
